@@ -1,0 +1,6 @@
+C:\Users\hsbUser\Desktop\MARCELO\Aplicacion_Comentarios\Aplicacion_Comentarios\bin\Debug\Aplicacion_Comentarios.exe.config
+C:\Users\hsbUser\Desktop\MARCELO\Aplicacion_Comentarios\Aplicacion_Comentarios\bin\Debug\Aplicacion_Comentarios.exe
+C:\Users\hsbUser\Desktop\MARCELO\Aplicacion_Comentarios\Aplicacion_Comentarios\bin\Debug\Aplicacion_Comentarios.pdb
+C:\Users\hsbUser\Desktop\MARCELO\Aplicacion_Comentarios\Aplicacion_Comentarios\obj\Debug\Aplicacion_Comentarios.csprojResolveAssemblyReference.cache
+C:\Users\hsbUser\Desktop\MARCELO\Aplicacion_Comentarios\Aplicacion_Comentarios\obj\Debug\Aplicacion_Comentarios.exe
+C:\Users\hsbUser\Desktop\MARCELO\Aplicacion_Comentarios\Aplicacion_Comentarios\obj\Debug\Aplicacion_Comentarios.pdb
